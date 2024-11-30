@@ -1,0 +1,29 @@
+## Licença: Todos os Direitos Reservados
+
+Copyright (c) 2024 Silas Sefas de Souza Aquino. Todos os direitos reservados.
+
+### 1. **Condições de Uso**
+Este código é fornecido sob **todos os direitos reservados**. Nenhuma parte deste código pode ser copiada, redistribuída, modificada, ou utilizada de qualquer forma sem a **permissão explícita** e por escrito do autor.
+
+### 2. **Proibição de Uso Comercial**
+É **estritamente proibido** usar, redistribuir, ou licenciar este código para **fins comerciais** sem o consentimento expresso do autor. Qualquer uso do código com fins lucrativos, venda ou exploração comercial é considerado uma violação desta licença e uma infração de direitos autorais.
+
+### 3. **Proibição de Modificação e Derivados**
+Você não pode modificar, adaptar, traduzir ou criar obras derivadas deste código sem a permissão explícita do autor. A criação de qualquer software baseado ou derivado deste código sem o devido consentimento violará os direitos de propriedade intelectual.
+
+### 4. **Proibição de Distribuição**
+Este código não pode ser redistribuído, vendido, ou licenciado a terceiros sem a autorização do autor. Qualquer distribuição não autorizada será tratada como uma violação desta licença.
+
+### 5. **Propriedade Intelectual**
+O autor mantém **todos os direitos de propriedade intelectual** sobre o código, incluindo, mas não se limitando a, direitos autorais, patentes, e marcas registradas. A concessão de qualquer permissão para uso do código é limitada ao que é especificamente permitido por escrito.
+
+### 6. **Uso Pessoal e Educacional**
+Este código pode ser usado apenas para fins **não comerciais**, como **uso pessoal**, **educacional**, ou para **pesquisa**, conforme permitido pelo autor. Quaisquer outros usos, incluindo, mas não limitados a, comercialização, modificação, ou sublicenciamento, exigem permissão expressa do autor.
+
+### 7. **Isenção de Garantias**
+O código é fornecido **"no estado em que se encontra"**, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de adequação a um propósito específico ou não violação de direitos. O autor não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, consequenciais ou punitivos decorrentes do uso ou da incapacidade de usar este código.
+
+### 8. **Contato**
+Para obter permissão para usar, modificar ou distribuir o código, entre em contato diretamente com o autor através dos seguintes meios:
+- **Nome**: Silas Sefas de Souza Aquino
+- **E-mail**: [Seu e-mail ou link de contato]
