@@ -187,8 +187,8 @@ Este projeto visa transformar a gestão hoteleira em uma tarefa mais prática e 
    - Documente todas as funcionalidades iniciais do software.✅
 
 4. **Desenho da Arquitetura**:
-   - Modele a arquitetura do sistema (front-end, back-end, banco de dados, etc.).
-   - Planeje a interação entre componentes e serviços.
+   - Modele a arquitetura do sistema (front-end, back-end, banco de dados, etc.).✅
+   - Planeje a interação entre componentes e serviços.✅
 
 5. **Protótipos e Mockups**:
    - Crie protótipos ou wireframes para validar a interface do usuário (UI).
